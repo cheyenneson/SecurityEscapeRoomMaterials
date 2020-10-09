@@ -1,0 +1,29 @@
+Here are some helpful links you might want to use in the escape room:
+https://www.boxentriq.com/code-breaking/caesar-cipher
+https://rot13.com/
+https://morsecode.world/international/translator.html
+https://renaissanceballroom.com/139443_13_speci/139468_unmistak/#.XdylMLvZN9k.pinterest
+
+Hints:
+The Front Door Message
+This message can be decrypted with a very commonly used shift cipher...
+
+The Bookcase/Table/Desk
+Do you see the name of a certain famous cipher used by a Roman Emperor? What could the key be?
+
+The Hidden Basement
+Flag 1:
+netcat can be used on the command line as follows
+nc {url} {port}
+For example: nc byu.edu 97293
+
+Flag 2:
+I wonder what kind of language uses dashes and dots?
+
+Flag 3:
+There is a lot of garbage you don't need in this output. You can use the command 'grep' to filter it out
+Example: nc byu.edu 97293 | grep text
+
+
+The Hallway
+This note might be pure gibberish but maybe it just doesn't have the right extension...
